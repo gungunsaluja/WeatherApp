@@ -1,0 +1,36 @@
+There are 2 section:Your weather and search weather
+your weather - it is based on your location 
+search weather - you take input from user then you will tell then your weather.
+
+source of info from where we are getting weather info - by using API
+// we have to use 5 api's for practice
+api call to asynchronously handle karna hai
+kyuki vo timetaking hai
+
+or jo b response api se aaaya hai uskoo hmm json me convert krke use karenge
+json me convert karte hue b await use karte hai
+api ko call karte samay error b aaskta h tw uske liye try and catch block tyar rkhee.....
+class List ko use karke hum add or remove krate hai basically hum yha active class bnate h ek
+We have two tab one is your weather and second is search weather
+
+we are only adding and removing the active class
+loading vala icon 
+load ho ra data
+mtlb kuj call ho ra h 
+mtlb fetch api
+data dikhaunga par h nhiii tb tk loading dekhunga
+fetch api kii call await khtm hota hi loading bnd
+hmari locatation kese pta??
+geolocation = location latitude logitude mdn
+navigation method
+active class se hum kisi b class ko visible ya hidden kr skte hai
+w3school pr dekho it will take our grant
+
+
+jab coordinates available nahii hai tw grant location access vali screen dikhaii degi
+ 
+there are four screen
+grant access
+loading
+your weather
+search weather
